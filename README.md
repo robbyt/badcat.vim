@@ -19,7 +19,7 @@ And add the following line to your `~/.vimrc` file:
 
 ```vim
 syntax enable
-set backgound=dark
+set background=dark
 colorscheme badcat
 ```
 
